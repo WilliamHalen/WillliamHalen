@@ -1,5 +1,6 @@
 .navbar-inverse{
-	backgrond;black
+
+	background: black;
 	
 
 }
@@ -21,10 +22,13 @@ font-family: 'Orbitron', sans-serif;
 .normal-text{
 	text-align:center; 
 	font size:150%;
+	font-family: 'Orbitron', sans-serif;
+	color: white;
 }
 
 .cent{
 	text-align: center;
 }
-.
-	
+.bgcolor{
+	background-color: black;
+	}
